@@ -1,0 +1,3 @@
+# SQLZOO-solutions
+
+first time
